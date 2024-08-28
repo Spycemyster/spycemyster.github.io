@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Guild Harem-1.0";
 const contentToCache = [
-    "Build/Guild Harem.loader.js",
-    "Build/Guild Harem.framework.js",
-    "Build/Guild Harem.data",
-    "Build/Guild Harem.wasm",
+    "Build/builds.loader.js",
+    "Build/builds.framework.js",
+    "Build/builds.data",
+    "Build/builds.wasm",
     "TemplateData/style.css"
 
 ];
