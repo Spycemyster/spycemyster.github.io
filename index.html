@@ -57,12 +57,13 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/builds.loader.js";
+      var loaderUrl = buildUrl + "/spycemyster.github.io.loader.js";
       var config = {
         arguments: [],
-        dataUrl: buildUrl + "/builds.data",
-        frameworkUrl: buildUrl + "/builds.framework.js",
-        codeUrl: buildUrl + "/builds.wasm",
+        dataUrl: buildUrl + "/spycemyster.github.io.data.gz",
+        frameworkUrl: buildUrl + "/spycemyster.github.io.framework.js.gz",
+        codeUrl: buildUrl + "/spycemyster.github.io.wasm.gz",
+        symbolsUrl: buildUrl + "/spycemyster.github.io.symbols.json.gz",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "Guild Harem",
