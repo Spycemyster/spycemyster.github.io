@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Guild Harem-1.0";
 const contentToCache = [
-    "Build/spycemyster.github.io.loader.js",
-    "Build/spycemyster.github.io.framework.js.gz",
-    "Build/spycemyster.github.io.data.gz",
-    "Build/spycemyster.github.io.wasm.gz",
+    "Build/builds.loader.js",
+    "Build/builds.framework.js",
+    "Build/builds.data",
+    "Build/builds.wasm",
     "TemplateData/style.css"
 
 ];
